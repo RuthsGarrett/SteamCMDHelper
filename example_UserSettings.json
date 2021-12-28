@@ -1,0 +1,7 @@
+{
+    "install_dir": "./SteamCMD",
+    "games": {
+      "Valheim": "892970",
+      "Left 4 Dead 2": "560"
+    }
+  }
